@@ -5,6 +5,7 @@ using UnityEngine;
 public class Movimentos : MonoBehaviour
 {
     public Animator animMove;
+    public Animator animSpeed;
   
     
 
@@ -34,6 +35,8 @@ public class Movimentos : MonoBehaviour
         {
             animMove.SetInteger("move", 1);
         }
+
+         
 
         float Rota = Input.GetAxis("Mouse X") * Rotacao;
         transform.Rotate(0, Rota, 0);
