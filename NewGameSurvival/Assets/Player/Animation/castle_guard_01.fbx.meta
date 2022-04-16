@@ -11,22 +11,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Guard_02
-    second: {instanceID: 0}
+    second: {fileID: 2100000, guid: 57fb2d633a1999e4ab9a55949ca0a74e, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Guard_02__diffuse
-    second: {fileID: 2800000, guid: d8ee64aa07f34304ca174fff87f455cc, type: 3}
+    second: {fileID: 2800000, guid: 8a8678e75a55b6242b159e03a91c8251, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Guard_02__normal
-    second: {fileID: 2800000, guid: 8bba8418f42b3e34ea49a8fa17489cea, type: 3}
+    second: {fileID: 2800000, guid: 56194dd218064404b8697af13a3c7f0b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Guard_02__specular
-    second: {fileID: 2800000, guid: cf33c5c90e793244191e41a65a9e50fb, type: 3}
+    second: {fileID: 2800000, guid: 410f10e7f74f1a8408bc8df509ae8afa, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
